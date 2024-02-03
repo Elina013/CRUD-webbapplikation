@@ -1,0 +1,20 @@
+/* Styling för användarkort och redigeringsformulär */
+.user-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  display: inline-block;
+}
+
+.edit-form {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
